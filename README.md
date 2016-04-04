@@ -9,4 +9,7 @@ Learning VR on Web
 
 Just coding for WebVR..
 
+## Some remember
 
+1. open the webgl support in chrome
+	chrome://flags/, find the webgl option and enabled it.
