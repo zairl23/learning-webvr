@@ -13,3 +13,14 @@ Just coding for WebVR..
 
 1. open the webgl support in chrome
 	chrome://flags/, find the webgl option and enabled it.
+
+
+## A-FRAME
+
+### start:
+
+	https://aframe.io/docs/guide/getting-started.html
+
+	git  clone https://github.com/aframevr/aframe-boilerplate.git
+
+	npm install && npm start
