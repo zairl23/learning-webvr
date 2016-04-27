@@ -24,3 +24,7 @@ Just coding for WebVR..
 	git  clone https://github.com/aframevr/aframe-boilerplate.git
 
 	npm install && npm start
+
+## Open source projects
+
+	[IdeaSpace: Content management system for the virtual reality web](https://github.com/IdeaSpaceVR/IdeaSpace)
