@@ -6,6 +6,8 @@ Learning VR on Web
 1. [A-FRAME](https://aframe.io/docs/guide/)
 1. [Three.js](http://threejs.org)
 1. [WebVR](http://mozvr.com/#start)
+1. [aframe-react](https://github.com/ngokevin/aframe-react)
+1. [ngokevin](http://ngokevin.com/)
 
 Just coding for WebVR..
 
